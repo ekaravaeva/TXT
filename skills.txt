@@ -1,0 +1,10 @@
+Composing test cases and bug reports
+Basic Linux commands usage
+API testing (Postman)
+Studying logs on remote server
+GitHub experience
+SQL (creating tables, composing queries)
+working with browser Devtools
+JMeter load testing
+Mobile testing
+
